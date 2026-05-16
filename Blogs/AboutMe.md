@@ -5,7 +5,7 @@ To be honest, I still don’t completely know where this journey will take me. B
 Eventually, I realized there’s never a perfect time.
 So today, I finally started.
 
-During college, a lot of people called me “lucky” because I managed to secure placements in my 7th semester itself. I received full-time offers from LTM, TCS, and Concentrix, along with internship opportunities from two startups. I’m genuinely grateful for every opportunity that came my way, but I also know the reality behind those results.
+During college, I received 3 full-time offers top MNCs along with internship opportunities from 2 startups. I’m genuinely grateful for every opportunity that came my way, but I also know the reality behind those results.
 
 It was never overnight success.
 
