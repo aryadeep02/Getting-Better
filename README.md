@@ -47,7 +47,7 @@ backend-engineering-journey/
 │   ├── LinkedList/
 │   ├── Trees/
 │   ├── Graphs/
-│   └── DynamicProgramming/
+│   └── ...
 │
 ├── Backend/
 │   ├── SpringBoot/
@@ -60,7 +60,7 @@ backend-engineering-journey/
 │   ├── OS/
 │   ├── DBMS/
 │   ├── CN/
-│   └── OOP/
+│   └── ...
 │
 ├── Blogs/
 │   ├── Day-01.md
