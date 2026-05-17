@@ -1,5 +1,6 @@
 ## About Me
-I have foundational knowledge of Data Structures & Algorithms, Java, OOPs, DBMS, Computer Networks, and Machine Learning, along with hands-on experience in Full-Stack Development and Data Science projects. Currently, I am focused on refining my problem-solving abilities, strengthening core computer science fundamentals, and building scalable backend applications using technologies like Spring Boot.
+
+I have foundational knowledge of Data Structures & Algorithms, Git and GitHub, Java, OOPs, DBMS, Computer Networks, and Machine Learning, along with hands-on experience in Full-Stack Development and Data Science projects. Currently, I am focused on refining my problem-solving abilities, strengthening core computer science fundamentals, and building scalable backend applications using technologies like Spring Boot.
 
 My goal is to move beyond academic understanding and apply concepts professionally through consistent learning, practical projects, and real-world engineering practices.
 
@@ -9,6 +10,8 @@ My goal is to move beyond academic understanding and apply concepts professional
 
 Most of my preparation revolved around building strong fundamentals rather than following too many resources at once. I started my DSA preparation during my second year of college and gradually explored development and machine learning alongside it.
 
+---
+
 ## Java & DSA
 
 ### Learning Java & Programming Fundamentals
@@ -16,6 +19,9 @@ Most of my preparation revolved around building strong fundamentals rather than 
 
 ### Core DSA & Interview Preparation
 - https://youtu.be/rZ41y93P2Qo?si=OWoeJZeYisgxBE7S
+
+### Git & GitHub
+- https://youtu.be/q8EevlEpQ2A?si=0-31SgkHdmtiUSZw
 
 Apart from courses, I consistently practiced problems on:
 - LeetCode
