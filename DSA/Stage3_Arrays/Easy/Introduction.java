@@ -1,6 +1,6 @@
+package Stage3_Arrays.Easy;
 
 public class Introduction {
-
     public static void main(String[] args) {
 
         System.out.println("Starting my DSA journey.");
