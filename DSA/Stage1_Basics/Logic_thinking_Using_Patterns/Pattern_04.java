@@ -1,5 +1,5 @@
-package Stage1_Basics.Logic_thinking_Using_Patterns;
 //https://takeuforward.org/pattern/pattern-1-rectangular-star-pattern
+package Stage1_Basics.Logic_thinking_Using_Patterns;
 public class Pattern_04 {
     static void main() {
         int total=5;

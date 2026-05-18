@@ -1,5 +1,5 @@
-package Stage1_Basics.Logic_thinking_Using_Patterns;
 //https://takeuforward.org/pattern/pattern-3-right-angled-number-pyramid
+package Stage1_Basics.Logic_thinking_Using_Patterns;
 public class Pattern_02 {
     static void main() {
         int start=5;
