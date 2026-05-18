@@ -1,5 +1,5 @@
+//https://takeuforward.org/pattern/pattern-6-inverted-numbered-right-pyramid
 package Stage1_Basics.Logic_thinking_Using_Patterns;
-
 public class Pattern_06 {
     static void main() {
         int n=5;
