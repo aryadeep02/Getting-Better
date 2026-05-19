@@ -1,11 +1,8 @@
 package Stage1_Basics.Logic_thinking_Using_Patterns;
 
 public class Pattern_08 {
-
     static void main() {
-
         int n = 4;
-
         for(int i = 1; i <= n; i++) {
 
             // Spaces
