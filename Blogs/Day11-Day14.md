@@ -1,4 +1,4 @@
-
+# Day 11- Day 14 Summary
 
 After a gap in my learning journey, I found it difficult to regain the momentum I had when I started. Looking back, I acknowledge that I have been somewhat lazy and could have managed my time better. Accepting my shortcomings is important because improvement starts with honesty and self-awareness.
 
