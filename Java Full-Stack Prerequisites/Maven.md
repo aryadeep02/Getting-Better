@@ -856,3 +856,4 @@ Spring Boot + Maven + MySQL + React
 ```
 
 This combination powers a large percentage of modern Java Full Stack applications used in production environments.
+
