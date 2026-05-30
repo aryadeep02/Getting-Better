@@ -97,7 +97,6 @@ Currently Learning:
 - Build strong backend fundamentals
 - Create real-world backend projects
 - Improve problem-solving ability
-- Become interview ready for product-based companies
 
 
 ---
