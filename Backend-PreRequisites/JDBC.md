@@ -584,4 +584,4 @@ Understanding JDBC helps in debugging, performance optimization, and database-re
 
 ✅ JDBC forms the foundation of Hibernate and Spring Data JPA.
 
-Mastering JDBC makes learning Spring Boot, Hibernate, JPA, and enterprise backend development significantly easier.
+Mastering JDBC makes learning Spring Boot, Hibernate, JPA, and enterprise backend development significantly easier. 
