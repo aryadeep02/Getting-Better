@@ -41,9 +41,7 @@ Most importantly, I successfully:
 * Used incorrect Java package naming conventions initially.
 
 But honestly, I’m happy these mistakes happened early because I learned more by fixing them than I would have by avoiding them.
-
 Still learning. Still improving.
-
 I’ve also started preparing a proper roadmap and collecting resources for everything I plan to learn moving forward — DSA, Java, backend engineering, CS fundamentals, Spring Boot, and much more.
 This repository will keep evolving with time, and I’ll continue uploading everything I learn throughout the journey.
 Stay connected — this is just Day 1.
