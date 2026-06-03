@@ -49,4 +49,4 @@ As I continue learning JDBC and SQL, I am also planning to build a **beginner-fr
 - Continue improving my GitHub profile and showcasing my learning journey.
 - Focus on learning by building rather than only consuming content.
 
-Overall, Day 15–Day 18 were focused on strengthening backend fundamentals, completing JUnit 5 testing, beginning database connectivity with JDBC, improving my GitHub presence, and preparing to apply these concepts through real-world projects.
+Overall,Day 15–Day 18 were focused on strengthening backend fundamentals, completing JUnit 5 testing, beginning database connectivity with JDBC, improving my GitHub presence, and preparing to apply these concepts through real-world projects.
