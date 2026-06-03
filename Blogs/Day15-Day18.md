@@ -14,35 +14,39 @@ Additionally, I spent time understanding the overall **JDBC Architecture**, incl
 - ResultSet
 - Database interaction workflow
 
-As I continue learning JDBC and SQL, I am also considering building a **beginner-friendly project** to apply these concepts practically. My goal is to maximize learning by implementing concepts through code rather than only studying theory.
+I also dedicated time to improving my **GitHub profile** by designing and refining a modern, professional README. I worked on enhancing its visual appeal, organizing information more effectively, and adding useful sections such as skills, technologies, GitHub statistics, and project highlights to make the profile more attractive and informative for visitors and recruiters.
+
+As I continue learning JDBC and SQL, I am also planning to build a **beginner-friendly project** to apply these concepts practically. My goal is to maximize learning through implementation rather than relying solely on theory.
 
 ---
 
 # Key Learnings
 
 - Automated testing improves software quality and confidence in code changes.
-- JUnit 5 provides a clean and modern approach to unit testing in Java.
+- JUnit 5 provides a modern and structured approach to Java testing.
 - JDBC acts as a bridge between Java applications and databases.
-- Understanding SQL is essential for backend development.
-- Building projects alongside learning helps reinforce concepts much faster.
+- SQL is a fundamental skill for backend development.
+- A well-structured GitHub profile helps showcase skills and projects professionally.
+- Building projects alongside learning accelerates understanding and retention.
 - Practical implementation often reveals gaps in understanding that theory alone cannot.
 
 ---
 
 # Challenges Faced
 
-- Understanding the flow of JDBC architecture initially required careful study.
-- Managing learning across multiple topics while maintaining consistency.
-- Balancing theory with hands-on coding practice.
+- Understanding the complete JDBC workflow and architecture initially required careful study.
+- Balancing multiple learning topics while maintaining consistency.
+- Deciding how to structure and present my GitHub profile effectively.
 
 ---
 
 # Goals Ahead
 
-- Strengthen SQL fundamentals through more query practice.
+- Strengthen SQL fundamentals through regular query practice.
 - Gain confidence with JDBC CRUD operations.
 - Build a beginner-friendly project using Java, JDBC, and SQL.
 - Resume consistent DSA preparation alongside backend development.
-- Continue focusing on practical learning and real-world implementation.
+- Continue improving my GitHub profile and showcasing my learning journey.
+- Focus on learning by building rather than only consuming content.
 
-Overall, Day 15–Day 18 were focused on transitioning from learning concepts to understanding how backend applications communicate with databases, while preparing to apply these skills through project development.
+Overall, Day 15–Day 18 were focused on strengthening backend fundamentals, completing JUnit 5 testing, beginning database connectivity with JDBC, improving my GitHub presence, and preparing to apply these concepts through real-world projects.
