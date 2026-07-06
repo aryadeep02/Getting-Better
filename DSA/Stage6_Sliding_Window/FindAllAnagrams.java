@@ -10,7 +10,7 @@ public class FindAllAnagrams {
 
     public static void main(String[] args) {
 
-        solution obj = new solution();
+        Solution2 obj = new Solution2();
 
         String s = "cbaebabacd";
         String p = "abc";
@@ -21,7 +21,7 @@ public class FindAllAnagrams {
     }
 }
 
-class solution {
+class Solution2 {
 
     private boolean allZero(int[] count) {
         for (int num : count) {

@@ -7,7 +7,7 @@ import java.util.Arrays;
 public class CountOccurences {
     public static void main(String[] args) {
 
-        Solution obj = new Solution();
+        Solution1 obj = new Solution1();
 
         String txt = "forxxorfxdofr";
         String pat = "for";
@@ -16,7 +16,7 @@ public class CountOccurences {
     }
 }
 
-class Solution {
+class Solution1 {
 
     private boolean allZero(int[] count) {
         for (int num : count) {
