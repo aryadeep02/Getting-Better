@@ -1,4 +1,4 @@
-package Stage5_Sliding_Window;
+package Stage6_Sliding_Window;
 
 import java.util.Arrays;
 
