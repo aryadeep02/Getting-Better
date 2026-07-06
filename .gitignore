@@ -1,4 +1,12 @@
+# IDE/project-local files
 .idea/
+
+# Build output
 out/
+target/
+build/
+production/
 *.class
-LICENSE
+
+# macOS metadata
+.DS_Store

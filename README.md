@@ -39,35 +39,33 @@ I’ll also be documenting my mistakes along the way so others starting from a s
 # Repository Structure
 
 ```bash
-backend-engineering-journey/
+Getting-Better/
 │
 ├── DSA/
-│   ├── Arrays/
-│   ├── Strings/
-│   ├── LinkedList/
-│   ├── Trees/
-│   ├── Graphs/
-│   └── ...
+│   ├── Stage1_Basics/
+│   ├── Stage3_Arrays/
+│   ├── Stage5_Strings/
+│   └── Stage6_Sliding_Window/
 │
-├── Backend/
-│   ├── SpringBoot/
-│   ├── REST-APIs/
-│   ├── Hibernate/
-│   ├── Security/
-│   └── Projects/
-│
-├── CS-Fundamentals/
-│   ├── OS/
-│   ├── DBMS/
-│   ├── CN/
-│   └── ...
+├── Backend-PreRequisites/
+│   ├── JDBC_Complete_Notes.md
+│   ├── JUnit-Testing_Complete_Notes.md
+│   └── Maven_Complete_Notes.md
 │
 ├── Blogs/
-│   ├── Day-01.md
-│   ├── Day-02.md
+│   ├── Day1.md
+│   ├── Day2.md
 │   └── ...
 │
 └── README.md
+```
+
+Planned folders like backend projects and CS fundamentals can be added when they contain real notes or code. Keeping the tree tied to current work makes commits easier to review.
+
+To compile the current Java practice files from the repository root:
+
+```bash
+find DSA -name "*.java" -print0 | xargs -0 javac -d /tmp/getting-better-classes
 ```
 
 ---
@@ -157,4 +155,3 @@ The goal is to become someone who can:
 
 
 ---
-

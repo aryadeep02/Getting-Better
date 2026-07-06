@@ -72,7 +72,6 @@ class Solution2 {
 
             j++;
         }
-
         return result;
     }
 }
