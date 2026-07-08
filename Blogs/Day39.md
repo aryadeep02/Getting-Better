@@ -20,4 +20,4 @@ I am incredibly glad today because I am finally getting my pace back and buildin
 - JDBC provides the essential foundation for how Java backends communicate with databases.
 - Transitioning to Servlets and JSP is the next logical step to understand server-side web development.
 - Focusing on question links rather than code makes the learning log cleaner and more useful for future review.
-- Getting the pace back comes down to consistency and picking the right strategy for tracking progress.
+- Getting the pace back comes down to consistency and picking the right strategy for tracking progress
