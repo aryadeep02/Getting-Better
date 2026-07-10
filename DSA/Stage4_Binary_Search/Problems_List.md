@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Problems](https://img.shields.io/badge/Problems-1-blue)
+![Problems](https://img.shields.io/badge/Problems-2-blue)
 ![Easy](https://img.shields.io/badge/Easy-1-success)
 ![Medium](https://img.shields.io/badge/Medium-1-orange)
 ![Hard](https://img.shields.io/badge/Hard-0-red)
@@ -152,7 +152,7 @@ https://www.geeksforgeeks.org/problems/implement-stack-using-array/1
 # 📊 Personal Stats
 
 ```
-Easy      : 0
+Easy      : 1
 Medium    : 1
 Hard      : 0
 
