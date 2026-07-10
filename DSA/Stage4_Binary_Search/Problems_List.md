@@ -75,7 +75,7 @@ Remaining   : 39
 | Difficulty | 🟡 Medium |
 | Pattern | First & Last Occurrence |
 | Status | ✅ Solved |
-| Revision | ⬜ ⬜ ⬜ |
+
 
 ### 🔗 Problem Link
 
@@ -89,12 +89,35 @@ https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-
 - Never return immediately after finding the target.
 
 ---
+---
 
-### Revision History
+## Problem #2
 
-| Revision | Date | Time Taken | Without Hint | Notes |
-|----------|------|-----------:|:------------:|------|
-| 1 | 10 Jul 2026 | 28 min | ❌ | Forgot boundary condition |
+### 📝 Implement Stack using Array
+
+| Property | Value |
+|----------|-------|
+| Difficulty | 🟢 Easy |
+| Pattern | Stack Implementation (Array) |
+| Status | ✅ Solved |
+| Revision | ⬜ ⬜ ⬜ |
+
+### 🔗 Problem Link
+
+https://www.geeksforgeeks.org/problems/implement-stack-using-array/1
+---
+### 💡 Key Learnings
+
+- Implemented a stack using a fixed-size array.
+- Understood the role of the `top` pointer.
+- Practiced the core stack operations:
+    - `push()`
+    - `pop()`
+    - `peek()/top()`
+    - `isEmpty()`
+- Learned how to handle stack overflow and underflow conditions.
+
+---
 
 
 ---
