@@ -90,67 +90,12 @@ https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-
 
 ---
 
-## Problem #2
+### Revision History
 
-### 📝
+| Revision | Date | Time Taken | Without Hint | Notes |
+|----------|------|-----------:|:------------:|------|
+| 1 | 10 Jul 2026 | 28 min | ❌ | Forgot boundary condition |
 
-| Property | Value |
-|----------|-------|
-| Difficulty | |
-| Pattern | |
-| Status | ⬜ Not Solved |
-| Revision | ⬜ ⬜ ⬜ |
-
-### 🔗 Problem Link
-
-### 💡 Key Learnings
-
--
-
--
-
--
-
----
-
-## Problem #3
-
-### 📝
-
-| Property | Value |
-|----------|-------|
-| Difficulty | |
-| Pattern | |
-| Status | ⬜ Not Solved |
-| Revision | ⬜ ⬜ ⬜ |
-
-### 🔗 Problem Link
-
-### 💡 Key Learnings
-
--
-
--
-
--
-
----
-
-# 📅 Revision Tracker
-
-| Problem | 1️⃣ | 2️⃣ | 3️⃣ |
-|---------|:--:|:--:|:--:|
-| Find First & Last Position | ⬜ | ⬜ | ⬜ |
-
----
-
-# ❌ Mistakes I Made
-
-Write recurring mistakes here.
-
--
--
--
 
 ---
 
@@ -181,18 +126,6 @@ Write recurring mistakes here.
 
 ---
 
-# 🏆 Milestones
-
-| Problems Solved | Achievement |
-|----------------:|------------|
-| 10 | 🌱 Beginner |
-| 20 | 🚀 Intermediate |
-| 30 | ⭐ Advanced |
-| 40 | 🏅 Interview Ready |
-| 60+ | 👑 Binary Search Master |
-
----
-
 # 📊 Personal Stats
 
 ```
@@ -200,10 +133,8 @@ Easy      : 0
 Medium    : 1
 Hard      : 0
 
-Revision Done : 0
+Revision Done : 1
 
-Accuracy : --
-Average Time : --
 ```
 
 ---
