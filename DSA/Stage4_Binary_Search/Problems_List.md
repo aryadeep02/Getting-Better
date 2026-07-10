@@ -3,7 +3,7 @@
 <div align="center">
 
 ![Problems](https://img.shields.io/badge/Problems-1-blue)
-![Easy](https://img.shields.io/badge/Easy-0-success)
+![Easy](https://img.shields.io/badge/Easy-1-success)
 ![Medium](https://img.shields.io/badge/Medium-1-orange)
 ![Hard](https://img.shields.io/badge/Hard-0-red)
 ![Status](https://img.shields.io/badge/Progress-2%25-yellow)
